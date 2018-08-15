@@ -1,2 +1,4 @@
-# appium_dashboard
-Sinatra playground just for fun.
+# Appium Dashboard
+
+Simple web dashboard for monitoring Appium devices as Sinatra MVC playground
+project just for fun.
